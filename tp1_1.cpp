@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-
     //Declaro variable
     int variable1=32;
     //Declaro el puntero y que apunte a la direccion de la V1
