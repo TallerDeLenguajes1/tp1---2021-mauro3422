@@ -1,5 +1,5 @@
 # tp1---2021-mauro3422
-#Punto 1
+# Punto 1
 ## ¿Porque es conveniente incluir Gitignore?
 Es una forma de ignorar documentos, archivos o directorios completos que no necesites que se suban al repositorio de codigo.
 ## ¿Cuando se debe implementar?
@@ -12,7 +12,7 @@ sistemas, frameworks, lenguajes, etc. que puedas estar usando. Seleccionas todos
 Usando la pagina gitignore.io, buscaria palabras claves como OSX, Windows, Node, Polymer, SublimeText,etc y despues lo añadiria a la carpeta donde tengo el git.
 
 
-#Punto 2 Preguntas.
+# Punto 2 Preguntas.
 
 El contenido del punto 2 y 3 se debe porque primero muestro el dato que contiene el puntero (*p1) que en este caso tiene la direccion de la v1, y despues muestro directamente la direccion de la variable con el operador "&" (&v1).
 
