@@ -2,7 +2,6 @@
 
 int main(){
 
-
     
     //Declaro variable
     int variable1=32;
